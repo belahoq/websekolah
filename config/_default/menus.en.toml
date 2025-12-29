@@ -49,7 +49,7 @@ url = "contact/"
 weight = 5
 
 [[footer]]
-name = "teacher"
+name = "GTK & PTK"
 url = "teacher/"
 
 [[footer]]
