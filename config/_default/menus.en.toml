@@ -44,8 +44,8 @@ url = "blog/"
 weight = 4
 
 [[main]]
-name = "Contact"
-url = "contact/"
+name = "Hubungi"
+url = "hubungi/"
 weight = 5
 
 [[footer]]
