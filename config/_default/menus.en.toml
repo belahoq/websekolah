@@ -45,7 +45,7 @@ weight = 4
 
 [[main]]
 name = "Hubungi"
-url = "hubungi/"
+url = "contact/"
 weight = 5
 
 [[footer]]
